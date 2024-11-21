@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a new project to develop a resilient packet routing approch utilizing multi-agent DRL.
 - 🌱 I’m currently learning deep reinforcement learning and python programming to enhance my skills in networking science.
 - 👯 I want to learn coding and try to make contribution to the community.
-- 💬 Ask me about deep reinforcement learning modeling methods, including Deep Q-Network (DQN) and it's varient, policy gradient and it's varient.
+- 💬 Ask me about deep reinforcement learning modeling methods, including Deep Q-Network (DQN) and it's varient, Policy Gradient and it's varient, PPO and it's varient.
 - 📫 How to reach me: pangyongjie@std.uestc.edu.cn
 - ⚡ Fun fact: Besides my dedication to scientific research and studies, I have a great passion for traveling. It's my way to unwind and broaden my horizons, exploring new cultures, landscapes, and cuisines around the world.
